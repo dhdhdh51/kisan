@@ -1,0 +1,25 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Android
+android/app/build/
+android/build/
+android/local.properties
+android/app/release.keystore
+*.keystore
+!debug.keystore
+
+# iOS
+ios/build/
+ios/Pods/
+ios/.xcode.env.local
+
+# Metro
+.metro-health-check*
+
+# Misc
+.DS_Store
+*.env
+*.env.local
